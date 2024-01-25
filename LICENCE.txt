@@ -1,0 +1,11 @@
+/*
+  This program is the intellectual property of CuriousRybicka.
+  Unauthorized copying, reproduction, or distribution of this program, or any portion
+  of it, may result in severe civil and criminal penalties, and will be prosecuted to
+  the maximum extent possible under law.
+
+  All rights to the program, including authorship and intellectual property rights,
+  are owned by CuriousRybicka.
+
+  If you have any questions or seek authorization, please contact CuriousRybicka.
+*/
